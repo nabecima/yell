@@ -1,0 +1,21 @@
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+body.is-active {
+  overflow: hidden;
+}
+
+picture {
+  display: block;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+a {
+  display: inline-block;
+}
